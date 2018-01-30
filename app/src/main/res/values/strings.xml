@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <string name="amount">Amount</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="location">Location</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="wallet_icon">Wallet Icon</string>
+    <string name="today">TODAY</string>
+    <string name="error_inserting_transaction">Error inserting transaction</string>
+    <string name="transaction_inserted_successfully">Transaction inserted successfully :)</string>
+    <string name="no_transactions">NO TRANSACTIONS</string>
+    <string name="tap_to_add_one">Tap + to add one</string>
+    <string name="error_updating_transaction">Error updating transaction</string>
+    <string name="transaction_updated_successfully">Transaction updated successfully :)</string>
+    <string name="unsaved_changes_dialog_message">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_transaction_dialog_message">Delete this transaction?</string>
+    <string name="error_deleting_transaction">Error deleting transaction</string>
+    <string name="transaction_deleted_successfully">Transaction deleted successfully</string>
+    <string name="edit">Edit</string>
+    <string name="add_transaction_title">Add Transaction</string>
+    <string name="edit_transaction_title">Edit Transaction</string>
+</resources>
